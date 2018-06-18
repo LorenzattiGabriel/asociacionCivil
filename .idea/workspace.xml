@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad0f8e3-7ec3-4726-a6c5-36f6ca966ff9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/photos/galeria4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/photos/galeria5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/photos/galeria6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/photos/fondo3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/photos/galeria2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/photos/galeria2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/photos/galeria3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/photos/galeria3.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+            <state relative-caret-position="3434">
+              <caret line="202" column="22" lean-forward="true" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -343,7 +339,7 @@
       <updated>1526499978880</updated>
       <workItem from="1526499981934" duration="1648000" />
       <workItem from="1527536307839" duration="3831000" />
-      <workItem from="1529337278414" duration="5435000" />
+      <workItem from="1529337278414" duration="6477000" />
     </task>
     <task id="LOCAL-00001" summary="cambios de nombres">
       <created>1526500993561</created>
@@ -359,15 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1529343675653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="agrego de mision">
+      <created>1529347213860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529347213860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13149000" />
+    <option name="totallyTimeSpent" value="14191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -635,8 +637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
+        <state relative-caret-position="3434">
+          <caret line="202" column="22" lean-forward="true" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
